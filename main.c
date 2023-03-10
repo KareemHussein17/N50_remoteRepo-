@@ -2,6 +2,7 @@
 
 int main()
 {
-printf("Nasr_50");
+printf("Git");
+printf("\n tool");
 return 0;
 }
